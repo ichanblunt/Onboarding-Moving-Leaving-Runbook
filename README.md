@@ -37,7 +37,9 @@ A users account should not be immediately deleted as there is typically data whi
 
 A user's current session can also be disabled. If Lisa is currently logged into an active session, then she will be forced to re-authenticate. 
 
+Now group membership and licenses can be removed. This will sanitize the setup for the groups. Removing licenses allows for other users to use them 
 
+Data the can be saved by the helpdesk. 
 
-
+Finally the account can be completely deleted
 
