@@ -24,3 +24,20 @@ In Entra more details can be specified for the user such as their department and
 <img width="700" alt="Screenshot 2026-11-20 104551" src="https://github.com/user-attachments/assets/e5ccdfa7-3b82-4017-9bd0-c7126c01e41e" />
 
 <img width="700" alt="Screenshot 2026-11-20 104836" src="https://github.com/user-attachments/assets/23005955-f8c3-4876-8446-1178d3a024b0" />
+
+2. Lisa has been given a new opportunity in the Human Resources department so must switch security groups.
+
+When the HR group was originally set up it was built as a dynamic security group for quick transfers between departments. This type of security group can only be created in Entra ID.
+
+3. Lisa is leaving the company due to finding a new job.
+
+Firstly, the helpdesk should disable sign in for Lisa's account. (only in the 365 admin center)
+
+A users account should not be immediately deleted as there is typically data which is associated with Lisa's account. 
+
+A user's current session can also be disabled. If Lisa is currently logged into an active session, then she will be forced to re-authenticate. 
+
+
+
+
+
