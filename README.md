@@ -41,7 +41,7 @@ Below demonstrates rules for a dynamic group based on the user's department.
 
 Since HR was built as a dynamic group, it's simple to switch groups. The user's department will need to be changed and then Lisa will be sent to the HR group.
 
-<img width="1717" height="755" alt="Screenshot 2026-11-23 173855" src="https://github.com/user-attachments/assets/609a59c5-cc5c-4f33-9575-3326c964e177" />
+<img width="700" alt="Screenshot 2026-11-23 171136" src="https://github.com/user-attachments/assets/feae6a88-6dd5-411e-9201-da5a5622f345" />
 
 3. Lisa is leaving the company due to finding a new job.
 
