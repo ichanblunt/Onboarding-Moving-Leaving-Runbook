@@ -43,6 +43,9 @@ Since HR was built as a dynamic group, it's simple to switch groups. The user's 
 
 <img width="700" alt="Screenshot 2026-11-23 171136" src="https://github.com/user-attachments/assets/feae6a88-6dd5-411e-9201-da5a5622f345" />
 
+<img width="700" alt="Screenshot 2026-11-24 165114" src="https://github.com/user-attachments/assets/c0139974-6733-4d80-a509-1992e373b81a" />
+
+
 3. Lisa is leaving the company due to finding a new job.
 
 Firstly, the helpdesk should disable sign in for Lisa's account. (only in the 365 admin center)
