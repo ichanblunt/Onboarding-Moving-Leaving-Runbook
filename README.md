@@ -29,12 +29,19 @@ In Entra more details can be specified for the user such as their department and
 
 When the HR group was originally set up it was built as a dynamic security group for quick transfers between departments. This type of security group can only be created in Entra ID.
 
+Firstly, the group named Human Resources was created.
+
 <img width="700" alt="Screenshot 2026-11-23 165206" src="https://github.com/user-attachments/assets/564c23f3-3dab-4413-8110-ca47be93dc99" />
 
 <img width="700" alt="Screenshot 2026-11-23 165348" src="https://github.com/user-attachments/assets/d44f83ea-26a7-45ad-804c-7d6cd99dc639" />
 
+Below demonstrates rules for a dynamic group based on the user's department. 
+
 <img width="700" alt="Screenshot 2026-11-23 170836" src="https://github.com/user-attachments/assets/b35865b2-230f-4ca2-a24c-c05cf641e082" />
 
+Since HR was built as a dynamic group, it's simple to switch groups. The user's department will need to be changed and then Lisa will be sent to the HR group.
+
+<img width="1717" height="755" alt="Screenshot 2026-11-23 173855" src="https://github.com/user-attachments/assets/609a59c5-cc5c-4f33-9575-3326c964e177" />
 
 3. Lisa is leaving the company due to finding a new job.
 
