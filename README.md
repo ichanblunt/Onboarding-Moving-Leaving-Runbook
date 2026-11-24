@@ -29,17 +29,24 @@ In Entra more details can be specified for the user such as their department and
 
 When the HR group was originally set up it was built as a dynamic security group for quick transfers between departments. This type of security group can only be created in Entra ID.
 
+<img width="700" alt="Screenshot 2026-11-23 165206" src="https://github.com/user-attachments/assets/564c23f3-3dab-4413-8110-ca47be93dc99" />
+
+<img width="700" alt="Screenshot 2026-11-23 165348" src="https://github.com/user-attachments/assets/d44f83ea-26a7-45ad-804c-7d6cd99dc639" />
+
+<img width="700" alt="Screenshot 2026-11-23 170836" src="https://github.com/user-attachments/assets/b35865b2-230f-4ca2-a24c-c05cf641e082" />
+
+
 3. Lisa is leaving the company due to finding a new job.
 
 Firstly, the helpdesk should disable sign in for Lisa's account. (only in the 365 admin center)
 
 A users account should not be immediately deleted as there is typically data which is associated with Lisa's account. 
 
-A user's current session can also be disabled. If Lisa is currently logged into an active session, then she will be forced to re-authenticate. 
+A user's current session can also be disabled. If Lisa is currently logged into an active session, then she will be forced to re-authenticate.  
 
-Now group membership and licenses can be removed. This will sanitize the setup for the groups. Removing licenses allows for other users to use them 
+Data then can be saved by the helpdesk. This is done in many companies in order to retain data and documentation purposes. This data can be transported to current employees with appropriate permissions. Data could be found in a SharePoint site, OneDrive, Outlook, etc. 
 
-Data the can be saved by the helpdesk. 
+Now Lisa's account can have her access removed from groups as groups have access to licenses and other features. Licenses are sometimes directly tied to the user so they can be removed directly. 
 
 Finally the account can be completely deleted
 
